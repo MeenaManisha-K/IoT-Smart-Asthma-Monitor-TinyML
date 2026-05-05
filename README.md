@@ -11,7 +11,7 @@ This project presents an IoT-enabled smart mask for real-time asthma risk monito
 ## Files
 - model.h → TinyML model
 - app.py → Flask web application
-- dataset.csv → Sample dataset (if included)
+- dataset.csv → 
 
 ## Usage
 1. Upload model to ESP32C3
